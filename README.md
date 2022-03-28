@@ -6,13 +6,15 @@
 Меня зовут Пётр, 29лет. Москва. Я Front-end разработчик:computer:. В настоящее время изучаю библиотеку React. Параллельно переписываю существующие проекты на TypeScript.
 
 ### 📫 Для связи :
-<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" alt="telegram" height="28">
+<a href="https://t.me/greek_msk">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" alt="telegram" height="28">
+</a>
 <a href="https://vk.com/petr_baiborin">
   <img src="https://img.shields.io/badge/vk.com-blue?logo=vk" alt="vk.com" height="28">
- </a>
- <a href="mailto:razor267@mail.ru">
+</a>
+<a href="mailto:razor267@mail.ru">
   <img src="https://img.shields.io/badge/Mail.ru-blue?logo=mail.ru&logoColor=yellow" alt="mail.ru" height="28">
- </a>
+</a>
  
 ---
 
