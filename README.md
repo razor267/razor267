@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/YZs7Fk7/1-Ok74cpxho9-U96t-Th1zsqm-A.png" height="200"  /></p>
+<p align="center"><img src="https://i.ibb.co/YZs7Fk7/1-Ok74cpxho9-U96t-Th1zsqm-A.png" height="200"/></p>
 <h1 align="center">Приветствую Вас на своей странице!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ### :man_technologist: Обо мне :
@@ -6,7 +6,11 @@
 Меня зовут Пётр, 29лет. Москва. Я Front-end разработчик:computer:. В настоящее время изучаю библиотеку React. Параллельно переписываю существующие проекты на TypeScript.
 
 ### 📫 Для связи :
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram">
+<img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" alt="telegram" height="28">
+<a href="https://vk.com/petr_baiborin">
+  <img src="https://img.shields.io/badge/vk.com-blue?logo=vk" alt="vk.com" height="28">
+ </a>
+<img src="https://img.shields.io/badge/Mail.ru-blue?logo=mail.ru&logoColor=yellow" alt="mail.ru" height="28">
 
 ---
 
