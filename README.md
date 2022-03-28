@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razor267&layout=compact&theme=vision-friendly-dark&bg_color=white&text_color=black&title_color=blue)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **razor267/razor267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
