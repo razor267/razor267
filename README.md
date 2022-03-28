@@ -10,8 +10,10 @@
 <a href="https://vk.com/petr_baiborin">
   <img src="https://img.shields.io/badge/vk.com-blue?logo=vk" alt="vk.com" height="28">
  </a>
-<img src="https://img.shields.io/badge/Mail.ru-blue?logo=mail.ru&logoColor=yellow" alt="mail.ru" height="28">
-
+ <a href="mailto:razor267@mail.ru">
+  <img src="https://img.shields.io/badge/Mail.ru-blue?logo=mail.ru&logoColor=yellow" alt="mail.ru" height="28">
+ </a>
+ 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
