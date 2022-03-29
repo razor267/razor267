@@ -79,7 +79,7 @@
 ### Моя статистика на Github :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=razor267&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razor267&layout=compact&theme=vision-friendly-dark&bg_color=white&text_color=black&title_color=blue&custom_title=Top%20used%20language)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razor267&layout=compact&theme=vision-friendly-dark&bg_color=white&text_color=black&title_color=blue&custom_title=Топ%20используемых%20языков)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **razor267/razor267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
