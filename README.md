@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/YZs7Fk7/1-Ok74cpxho9-U96t-Th1zsqm-A.png" height="200"/></p>
+<p align="center"><img src="https://i.ibb.co/tMnWSqC/banner.jpg" alt="banner"/></p>
 <h1 align="center">Приветствую Вас на своей странице!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ### :man_technologist: Обо мне :
