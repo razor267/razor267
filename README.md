@@ -58,6 +58,9 @@
   </a>
   <a href="https://www.figma.com/">    
      <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com/">    
+     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
   </a> 
 </p>
 
