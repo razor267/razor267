@@ -81,6 +81,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razor267&layout=compact&theme=vision-friendly-dark&bg_color=white&text_color=black&title_color=blue&custom_title=Топ%20используемых%20языков)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://komarev.com/ghpvc/?username=razor267&style=flat&color=blue&label=Visits" alt="" align="right"/>
+
 <!--
 **razor267/razor267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
