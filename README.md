@@ -28,7 +28,7 @@
  
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Мой стек технологий :
 <p>
   <a href="https://reactjs.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -76,7 +76,7 @@
 
 ---
 
-### My Stats :
+### Моя статистика на Github :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=razor267&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razor267&layout=compact&theme=vision-friendly-dark&bg_color=white&text_color=black&title_color=blue&custom_title=Top%20used%20language)](https://github.com/anuraghazra/github-readme-stats)
