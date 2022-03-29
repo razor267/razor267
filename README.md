@@ -29,7 +29,7 @@
   <a href="https://reactjs.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   </a>
-  <a href="hhttps://redux.js.org/">
+  <a href="https://redux.js.org/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   </a>
   <a href="https://www.w3.org/Style/CSS/">
