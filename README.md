@@ -44,6 +44,9 @@
   <a href="https://www.javascript.com/">    
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   </a>
+  <a href="https://www.npmjs.com/">    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+  </a>
    <a href="https://nodejs.org/">    
      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   </a>
@@ -53,6 +56,9 @@
   <a href="https://git-scm.com/">    
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </a>
+  <a href="https://webpack.js.org/">    
+     <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
+  </a>
   <a href="https://jestjs.io/">    
      <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>
   </a>
@@ -61,7 +67,7 @@
   </a>
   <a href="https://getbootstrap.com/">    
      <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-  </a> 
+  </a>
 </p>
 
 ---
